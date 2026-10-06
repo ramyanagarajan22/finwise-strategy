@@ -6,7 +6,10 @@
 
 FinWise's biggest growth problem is FinWise is losing more customers than it gains every month., because Most customers use FinWise alone, so it never becomes part of how their business runs day to day..
 
-_Working notes: I think FinWise's biggest problem is that paying customers don't keep seeing value from the product, so most of them leave within a year. Evidence: 1. 60% of paying customers churn within a year, so FinWise loses most of the customers it works hard to win.
+_Working notes: I think FinWise's biggest problem is that paying customers don't keep seeing value from the product, so most of them leave within a year. 
+
+Evidence: 
+1. 60% of paying customers churn within a year, so FinWise loses most of the customers it works hard to win.
 2. Spending more on acquisition isn't driving growth, because new customers leave about as fast as they join.
 3. Small businesses may only use finance tools occasionally, so they can forget the value between uses. Against the data: In all 13 months, more customers left than joined: 317 left, 128 joined, a net loss of 189. It also got worse over time, with 115 leaving in the first 6 months and 173 in the last 6._
 
