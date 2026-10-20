@@ -20,7 +20,9 @@ _Experiment: Retention test, Stop more customers from leaving than joining (317 
 
 _Testing A 3-screen flow: Welcome back with one-tap choice (Cash flow, Profit, Expenses), a simple dashboard with one big number, chart and three tips, and an accountant invite. on Existing paying customers, especially those in their first 6 months, when churn risk is highest. Current experience: Returning customers go through 5 screens (reconnecting data, a loading screen, extra Continue buttons) before seeing their numbers, and there’s no way to bring their accountant in.._
 
-_Predicted outcome: Aha-moment rate increases 20% or more in the test group, and those customers return more often each month, an early sign of lower churn.. If successful: Roll out to 95% of customers and keep a 5% holdout for 6 months to confirm long-term churn drops. Then test ways to increase accountant invites, such as a reminder after the first visit.. If unsuccessful: Check where customers dropped off. If they viewed the dashboard but didn’t invite their accountant, test the invite’s wording or timing. If they didn’t return at all, test a monthly email with their key number.._
+_Predicted outcome: Aha-moment rate increases 20% or more in the test group, and those customers return more often each month, an early sign of lower churn.. 
+If successful: Roll out to 95% of customers and keep a 5% holdout for 6 months to confirm long-term churn drops. Then test ways to increase accountant invites, such as a reminder after the first visit.. 
+If unsuccessful: Check where customers dropped off. If they viewed the dashboard but didn’t invite their accountant, test the invite’s wording or timing. If they didn’t return at all, test a monthly email with their key number.._
 
 _____
 
